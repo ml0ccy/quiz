@@ -10,3 +10,4 @@
  packaging     24.2
  pillow        11.1.0
  pip           23.2.1
+
